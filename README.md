@@ -1,5 +1,6 @@
 # Minetest-Mod: Minetest Rules
 Github: https://github.com/Truemmerer/minetest_rules
+
 This Mod is written for http://minelife.server-jean.de/
 
 ## English:
