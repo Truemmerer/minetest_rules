@@ -2,9 +2,6 @@
 Github: https://github.com/Truemmerer/minetest_rules
 
 
-# minetest_rules
-Add a rules command to show the Server Rules!
-
 ## English:
 
 **/rules**
